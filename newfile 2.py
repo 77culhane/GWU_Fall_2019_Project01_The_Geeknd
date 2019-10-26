@@ -7,4 +7,3 @@ Created on Sat Oct 26 13:56:30 2019
 """
 
 print("Hello, world")
-print("Breakin' 2: Electric Boogaloo")
